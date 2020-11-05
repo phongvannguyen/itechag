@@ -1,5 +1,5 @@
 # itechag interview answers
-
+###### Technologies Used: MongoDB, Express, Angular, Node
 ## How to run
 1. clone it to a local folder
 2. use the 'npm install' command in both backend and itechag-answer folders
